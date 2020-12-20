@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Cinema_Room_Manager.Problems-Boxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Cinema_Room_Manager.Problems-Boxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Cinema_Room_Manager.Problems-Boxes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Cinema_Room_Manager.Problems-Boxes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Cinema_Room_Manager.Problems-Boxes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Cinema_Room_Manager.Problems-Boxes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Cinema_Room_Manager.Problems-Count_how_many_times_a_number_occurs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Cinema_Room_Manager.Problems-Count_how_many_times_a_number_occurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Cinema_Room_Manager.Problems-Count_how_many_times_a_number_occurs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Cinema_Room_Manager.Problems-Count_how_many_times_a_number_occurs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Cinema_Room_Manager.Problems-Count_how_many_times_a_number_occurs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count how many times a number occurs/Cinema_Room_Manager.Problems-Count_how_many_times_a_number_occurs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
